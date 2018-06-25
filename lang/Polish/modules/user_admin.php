@@ -65,7 +65,7 @@ define('OGP_LANG_user', "Użytkownik");
 define('OGP_LANG_user_with_id_does_not_exist', "Użytkownik o takim ID nie istnieje");
 define('OGP_LANG_are_you_sure_you_want_to_delete_user', "Czy na pewno chcesz usunąć użytkownika");
 define('OGP_LANG_unable_to_delete_user', "Nie można usunąć użytkownika");
-define('OGP_LANG_successfully_deleted_user', "Pomyślnie usunięty użytkownik");
+define('OGP_LANG_successfully_deleted_user', "Pomyślnie usunięto użytkownika");
 define('OGP_LANG_failed_to_update_user_profile_error', "Nie można zaktualizować profilu użytkownika. Błąd: %s");
 define('OGP_LANG_profile_of_user_modified_successfully', "Profil użytkownika edytowany pomyślnie");
 define('OGP_LANG_no_subusers', "Brak subuser aby być przypisany do grupie. Proszę utworzyć konta subuser.");
@@ -108,5 +108,5 @@ define('OGP_LANG_editing_profile', "Edycja profilu: %s");
 define('OGP_LANG_valid_user', "Proszę podać prawidłowego użytkownika.");
 define('OGP_LANG_enter_valid_username', "Proszę podać poprawną nazwę użytkownika.");
 define('OGP_LANG_unexpected_role', "Nieoczekiwana rola użytkownika.");
-define('OGP_LANG_search', "Search");
+define('OGP_LANG_search', "Szukaj");
 ?>
