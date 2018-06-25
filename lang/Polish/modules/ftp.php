@@ -30,6 +30,6 @@ define('OGP_LANG_full_path', "Pełna ścieżka");
 define('OGP_LANG_add_ftp_account', "Dodaj konto FTP");
 define('OGP_LANG_remote_server', "Serwer Zdalny");
 define('OGP_LANG_server_name', "Nazwa Serwera");
-define('OGP_LANG_ftp_account_username_too_long', "FTP username is too long. Try a shorter username no longer than 20 characters.");
-define('OGP_LANG_ftp_account_password_too_long', "FTP password is too long. Try a shorter password no longer than 20 characters.");
+define('OGP_LANG_ftp_account_username_too_long', "Nazwa użytkownika FTP jest za długa. Wprowadź krótszą nazwę nie dłuższą niż 20 znaków.");
+define('OGP_LANG_ftp_account_password_too_long', "Hasło użytkownika FTP jest za długie. Wprowadź krótsze hasło nie dłuższe niż 20 znaków");
 ?>
